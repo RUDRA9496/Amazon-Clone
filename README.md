@@ -31,7 +31,6 @@ Footer with multiple sections
 
 Clean and organized code structure
 
-Mobile-friendly layout (basic responsiveness)
 
 🛠️ Technologies Used
 
